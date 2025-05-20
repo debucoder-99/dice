@@ -1,0 +1,44 @@
+.d1{
+  height: 200px;
+  width: 200px;
+
+}
+div{
+  text-align: center;
+  color:blue;
+}
+h1{
+  color: green;
+  background-color:black;
+  text-align: center;
+}
+
+body{
+  background-color: palevioletred;
+  background-image: url("../../../../Downloads/dice-png-41766.png");
+}
+img{
+  display: inline-block;
+}
+
+h3{
+  font-size: 30px;
+  display: block;
+  color:darkgoldenrod;
+  background-color: black;
+  text-align: center;
+}
+.buttons {
+  background-color:blueviolet;
+  border: 3px;
+  margin:2px
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
